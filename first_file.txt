@@ -3,3 +3,5 @@ To jest linijka kodu
 A to jest druga linijka kodu
 
 A to jest trzecia linijka kodu
+
+A to jest czwarta linijka kodu
