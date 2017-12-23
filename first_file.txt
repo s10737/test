@@ -1,0 +1,3 @@
+To jest linijka kodu
+
+A to jest druga linijka kodu
