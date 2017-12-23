@@ -5,3 +5,5 @@ A to jest druga linijka kodu
 A to jest trzecia linijka kodu
 
 A to jest czwarta linijka kodu
+
+To jest piata linjka
