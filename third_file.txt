@@ -1,4 +1,0 @@
-Pierwsza linijka kodu
-Druga linijka kodu
-Trzecia linijka kodu
-Czwarta linijka kodu
