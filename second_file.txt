@@ -1,5 +1,5 @@
 linijka1
-linijka2.0
+linjika2.0
 linijka2.5
 linijka3
 
