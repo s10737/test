@@ -7,3 +7,5 @@ A to jest trzecia linijka kodu
 A to jest czwarta linijka kodu
 
 To jest piata linjka
+
+I szosta linijka, ktorej nie ma w fixie
